@@ -17,3 +17,5 @@ vless://8d523036-e49f-4ec5-96b1-f80dfba17275@vm87675.vpsone.xyz:28680?security=r
 vless://6ced9343-b057-4dbc-8f47-e602a5016fa9@vm88523.vpsone.xyz:38941?security=reality&encryption=none&pbk=Yked1lhut59cOfUoCajb_H1XJvYdEc1ub5NSUAGfLn0&headerType=none&fp=firefox&spx=%2F0aJknzi4TPqjjqk&type=tcp&sni=www.vk.com&sid=128346#%F0%9F%87%B3%F0%9F%87%B1%D0%94%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD
 
 vless://0f8ecea2-1988-456b-a36d-a88bcd47c82b@fi.kuda-idem-nvrsk.ru:30904?security=reality&encryption=none&pbk=G8lsgZQLC1cydeTSGFcugL-Zwxq-yIoaLONODkMuQA4&headerType=none&fp=qq&spx=%2Fiy4Gh8qTDWoLcZ0&type=tcp&sni=vk.ru&sid=72#%F0%9F%87%AB%F0%9F%87%AE%D0%A5%D0%B5%D0%BB%D1%8C%D1%81%D0%B8%D0%BD%D0%BA%D0%B8%20%28YT%20%D0%B1%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B%29
+
+vless://5bac51bf-e25b-440d-8572-5ee95292c366@158.160.135.170:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com#%F0%9F%87%B7%F0%9F%87%BA%20%D0%91%D0%A1%20%28%D1%80%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%29
