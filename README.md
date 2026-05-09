@@ -1,1 +1,15 @@
-# Subscription-
+# Subscription
+Набор актуальных конфигураций для обхода блокировок с использованием протокола VLESS.
+
+# Инструкция по подключению
+
+V2RayTun:
+1. Скопируйте ссылку, которая будет чуть ниже.
+2. Зайдите в V2RayTun и нажмите на "+", а затем "Импортировать из буфера обмена"
+3. Готово! Вы добавили подписку.
+
+# Ссылка на подписку
+
+https://raw.githubusercontent.com/joseph89qw/Subscription/refs/heads/main/Subscription%20Joseph%20VPN.txt
+
+Хорошего пользования! by joseph89qw
